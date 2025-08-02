@@ -12,11 +12,6 @@ This Power BI dashboard analyzes customer purchase behavior and product performa
 - Power Query
 - DAX
 
-## 📁 Files
-- `Flipkart_Dashboard.pbix`: Power BI report
-- `sample-data/`: CSV data used in the report
-- `assets/`: Screenshot of dashboard
-
 ## 📸 Preview
 <img width="1307" height="732" alt="image" src="https://github.com/user-attachments/assets/38d3ea2b-c561-4f12-8eb8-5c24975a86ea" />
 
